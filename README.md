@@ -1,2 +1,1 @@
-Work samples of React and C#/.NET
-SQL stored procedures not included
+Work samples of React, C#/.NET, and SQL
